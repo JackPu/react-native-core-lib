@@ -7,5 +7,6 @@ git clone https://github.com/JackPu/react-native-core-lib.git
 ```
 
 引入你的项目中
-
+``` bash
 var App = require(./app.core);
+```
